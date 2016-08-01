@@ -1,7 +1,9 @@
 # Simple React Structure on Django 
 
 ### USAGE
-####Follow this article. 
+> Follow next article or Download this repository
+
+#### Follow this article. 
 * https://medium.com/@urangurang/react-on-django-boilerplate-3c3735df41f2#.4dslhg6us
 
 - - -
